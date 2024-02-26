@@ -22,7 +22,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Kishore Kumar U
 RegisterNumber:  212222233003
 */
-```
 /*
 import pandas as pd
 import numpy as np
@@ -79,6 +78,7 @@ print("MAE = ",mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 .....................................................//(9)
+```
 
 Developed by: Kishore Kumar U
 RegisterNumber: 212222233003 
